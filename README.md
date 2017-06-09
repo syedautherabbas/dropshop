@@ -1,0 +1,1 @@
+generic angular seed app 
